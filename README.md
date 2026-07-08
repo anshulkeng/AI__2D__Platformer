@@ -1,8 +1,6 @@
 \# Unity 2D Platformer Game with Zombie AI and Bat Companion AI
 ## Demo Video
 
-## Demo Video
-
 A short gameplay demo of the project is available here:
 
 [Watch Gameplay Demo](https://drive.google.com/file/d/1kp0A6bNFiYw_eRBfcEYiT2-QDk5ufrd5/view?usp=drive_link)
