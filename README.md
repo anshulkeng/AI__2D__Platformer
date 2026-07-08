@@ -3,7 +3,7 @@
 
 A short gameplay demo is available here:
 
-[Watch Demo Video](Demo/demo-video.mp4)
+[Watch Demo Video]([Demo/demo-video.mp4](https://drive.google.com/file/d/1kp0A6bNFiYw_eRBfcEYiT2-QDk5ufrd5/view?usp=sharing))
 
 
 \## Project Overview
